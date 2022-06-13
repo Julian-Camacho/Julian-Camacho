@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julian-Camacho
 - 🌱 I’m currently learning Responsive Web Development HTML | CSS | JavaScript 
 - 👀 I’m interested in work as Full Stack Web Developer
-- 📫 Reach me <a href="https://www.linkedin.com/in/julian-francisco-camacho/" target="_blank">here!!</a>
+- 📫 Reach me [here!!](https://www.linkedin.com/in/julian-francisco-camacho/){:target="_blank" rel="noopener"}
 
 - :chart_with_upwards_trend: This page and I are constantly improving, stay tuned for developments.
 
