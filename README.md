@@ -1,14 +1,28 @@
 # Hola, soy Julián 👋
 
-Soy un estudiante de Ingeniería en Informática que busca hacer carrera en el mundo del desarrollo de software. Mis intereses se centran en el Full Stack Development y en proyectos de aplicaciones web.
+Soy Julián Camacho, un estudiante de Ingeniería en Informática en la UBA y programador autodidacta interesado en el desarrollo Full Stack.
 
-## Tecnologías y herramientas
+## Sobre mí
+-🔭 Actualmente estoy trabajando en armar un portfolio de proyectos Full Stack.
+-🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y herramientas de desarrollo.
+-💼 Estoy buscando trabajo en el ámbito del desarrollo Full Stack.
 
-Tengo conocimientos básicos en HTML, CSS, JavaScript, React y Git, y actualmente estoy trabajando en mejorar mis habilidades en estas tecnologías.
+## Mis proyectos destacados
 
-## Proyectos
+### Rock Paper Scissors
+- Descripción: Un juego clásico de "Piedra, Papel o Tijeras" hecho en JavaScript.
+- Repositorio: [Link](https://github.com/Julian-Camacho/rock-paper-scissors)
+- Demo: [Link](https://julian-camacho.github.io/rock-paper-scissors/)
 
-Actualmente estoy trabajando en armar un portfolio de Full Stack que me permita demostrar mis habilidades y experiencia. Si estás interesado en colaborar en algún proyecto o si tienes algún consejo para mí, ¡no dudes en ponerte en contacto!
+### Etch-a-Sketch
+- Descripción: Una aplicación web que simula el clásico juguete de dibujo.
+- Repositorio: [Link](https://github.com/Julian-Camacho/etch-a-sketch)
+- Demo: [Link](https://julian-camacho.github.io/etch-a-sketch/)
+
+### Calculator
+- Descripción: Una calculadora básica creada con HTML, CSS y JavaScript.
+- Repositorio: [Link](https://github.com/Julian-Camacho/calculator)
+- Demo: [Link](https://julian-camacho.github.io/calculator/)
 
 ## Busco trabajo
 
