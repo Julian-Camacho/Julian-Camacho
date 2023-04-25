@@ -3,9 +3,9 @@
 Soy Julián Camacho, un estudiante de Ingeniería en Informática en la UBA y programador autodidacta interesado en el desarrollo Full Stack.
 
 ## Sobre mí
--🔭 Actualmente estoy trabajando en armar un portfolio de proyectos Full Stack.
--🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y herramientas de desarrollo.
--💼 Estoy buscando trabajo en el ámbito del desarrollo Full Stack.
+- 🔭 Actualmente estoy trabajando en armar un portfolio de proyectos Full Stack.
+- 🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y herramientas de desarrollo.
+- 💼 Estoy buscando trabajo en el ámbito del desarrollo Full Stack.
 
 ## Mis proyectos destacados
 
