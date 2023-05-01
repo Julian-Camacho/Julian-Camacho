@@ -16,7 +16,7 @@ Soy Julián Camacho, un estudiante de Ingeniería en Informática en la UBA y pr
 | [Demo](https://julian-camacho.github.io/poke-app/) | [Demo](https://julian-camacho.github.io/weather-app/) |
 | [Repositorio](https://github.com/Julian-Camacho/poke-app) | [Repositorio](https://github.com/Julian-Camacho/weather-app) |
 
-| nCalculadora | Etch-a-Sketch |
+| 💻 Calculadora | 🖌 Etch-a-Sketch |
 | ---------- | ---------- |
 | Una calculadora básica creada con HTML, CSS y JavaScript. |Una aplicación web que simula el clásico juguete de dibujo. Hecho en JavaScript. |
 | [Demo](https://julian-camacho.github.io/calculator/) | [Demo](https://julian-camacho.github.io/etch-a-sketch/) |
